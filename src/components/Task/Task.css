@@ -1,0 +1,51 @@
+.task{
+    display: flex;
+    flex-direction: row;
+    justify-self: center;
+    align-items: center;
+    justify-content: center;
+    gap: 38em;
+    width: 70em;
+    background-color: aliceblue;
+    padding-block: 2%;
+    border-radius: 0.5em ;
+}
+.task p{
+    width: 20em; 
+}
+.cancel{
+    height: 3em;
+    width: 5em;
+    border-radius: 0.5em;
+    border: 0px;
+    background-color: rgb(255, 67, 67);
+    cursor: pointer;
+}
+.save{
+    height: 3em;
+    width: 5em;
+    border-radius: 0.5em;
+    border: 0px;
+    background-color: aqua;
+    cursor: pointer;
+}
+
+
+
+
+.edit{
+    height: 3em;
+    width: 5em;
+    border-radius: 0.5em;
+    border: 0px;
+    background-color: aqua;
+    cursor: pointer;
+}
+.delete{
+    height: 3em;
+    width: 6em;
+    border-radius: 0.5em;
+    border: 0px;
+    background-color: rgb(255, 67, 67);
+    cursor: pointer;
+}

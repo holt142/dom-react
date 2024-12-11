@@ -1,0 +1,25 @@
+.addtask{
+    height: 15vh;
+    width: 70em ;
+    background-color: orange;
+    display: flex;
+    align-self: center;
+    align-items: center;
+    justify-content: space-between;
+    padding-inline: 15px;
+    border-radius: 0.5em ;
+}
+.addtask input{
+    height: 7vh;
+    width: 28vw;
+    border-radius: 5px;
+    border: 0cm;
+}
+.addtask button{
+    height: 5vh;
+    width: 7wh;
+    border-radius: 5px;
+    border: 0px;
+    background-color: rgb(16, 216, 16);
+    cursor: pointer;
+}
